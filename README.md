@@ -1,0 +1,2 @@
+# Advertisement-Sale-Prediction-from-Existing-customer---Logistic-Regression
+Advertisement Sale Prediction using Logistic Regression : This project predicts whether existing customers are likely to purchase an advertised product using Logistic Regression. It includes data preprocessing, exploratory analysis, model training, prediction, and evaluation to support targeted marketing and improve advertising strategies.
